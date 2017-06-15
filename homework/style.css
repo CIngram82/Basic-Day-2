@@ -23,7 +23,10 @@ header p {
 .price {
   display: inline;
 }
-
+#buy {
+  background-color: white;
+  color: orangered;
+}
 .season{
   color: darkred;
 }
@@ -46,14 +49,16 @@ header p {
   margin: 2vh 20vw;
   padding: 1vh;
 }
-section div p{
-  display: inline;
+
+section div a{
   color: orangered;
-  border-bottom: 1px solid orangered;
 }
 
 footer p{
   display: inline;
+}
+footer a {
+  color: black;
 }
 footer div {
   color: orangered;
