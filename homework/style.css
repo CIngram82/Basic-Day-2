@@ -1,0 +1,60 @@
+header {
+  margin: 1vw 2vw;
+}
+header p {
+  display: inline;
+  color: red;
+
+}
+.shoes {
+  color: white;
+  background-color: orangered;
+  padding: 5vw 20vw;
+}
+.logo{
+  height: 2vw;
+  width: auto;
+}
+.cart{
+  height: 1vw;
+  width: auto;
+}
+
+.price {
+  display: inline;
+}
+
+.season{
+  color: darkred;
+}
+#description {
+  display: inline;
+  border-top: 2px dashed darkred;
+  border-bottom: 2px dashed darkred;
+  padding: 2vh;
+}
+#reviews {
+  color: darkred;
+  display: inline;
+}
+#recomended {
+  text-align: center;
+  background-color:  lightsalmon;
+  height: 4vh;
+}
+#details {
+  margin: 2vh 20vw;
+  padding: 1vh;
+}
+section div p{
+  display: inline;
+  color: orangered;
+  border-bottom: 1px solid orangered;
+}
+
+footer p{
+  display: inline;
+}
+footer div {
+  color: orangered;
+}
